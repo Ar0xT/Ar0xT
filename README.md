@@ -11,8 +11,8 @@
 <p><img src="assets/stack.svg" width="100%" alt="stack. java, the spring core, and a little bit of everything else."></p>
 
 <p>
-<a href="mailto:YOUR_EMAIL"><img src="assets/btn-email.svg" height="46" alt="email"></a>&nbsp;
-<a href="https://t.me/YOUR_TELEGRAM"><img src="assets/btn-telegram.svg" height="46" alt="telegram"></a>
+<a href="mailto:ariunbattserendorjj@gmail.com"><img src="assets/btn-email.svg" height="46" alt="email"></a>&nbsp;
+<a href="https://t.me/Ar0x_T"><img src="assets/btn-telegram.svg" height="46" alt="telegram"></a>
 </p>
 
 <p><a href="https://github.com/Ar0xT/ar0xt/tree/main/src"><img src="assets/footer.svg" width="100%"></a></p>
