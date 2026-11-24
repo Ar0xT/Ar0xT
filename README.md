@@ -1,44 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e3a8a&height=140&section=header&text=Ariunbat%20Tserendorj&fontSize=30&fontColor=bfdbfe&fontAlignY=60&animation=fadeIn" width="100%"/>
+<p><img src="assets/hero.svg" width="100%" alt="hi, i'm ariunbat"></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=7EB3F7&center=true&vCenter=true&width=500&height=35&lines=Java+Developer;Backend+Engineering" />
+<p><img src="assets/intro.svg" width="100%" alt="studying software engineering at itmo university. solving algorithm and data structure problems. exploring how computers work, from the cpu to the backend. open to internships and new opportunities."></p>
 
-<br><br>
+<p><img src="assets/maze.svg" width="100%" alt="two breadth-first searches start at opposite ends of a maze, meet in the middle and light up the shortest path"></p>
+
+<p><img src="assets/globe.svg" width="100%" alt=""></p>
+
+<p><img src="assets/stack.svg" width="100%" alt="stack. java, the spring core, and a little bit of everything else."></p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" alt="Java"/>
-  <img width="18"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="52" alt="PostgreSQL"/>
-  <img width="18"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="52" alt="Git"/>
-  <img width="18"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="52" alt="Maven"/>
-  <img width="18"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="52" alt="IntelliJ IDEA"/>
-  <img width="18"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="52" alt="Ubuntu"/>
+<a href="mailto:YOUR_EMAIL"><img src="assets/btn-email.svg" height="46" alt="email"></a>&nbsp;
+<a href="https://t.me/YOUR_TELEGRAM"><img src="assets/btn-telegram.svg" height="46" alt="telegram"></a>
 </p>
 
-<br>
-
-![JavaFX](https://img.shields.io/badge/JavaFX-1d4ed8?style=for-the-badge&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-1d4ed8?style=for-the-badge&logoColor=white)
-![Multithreading](https://img.shields.io/badge/Multithreading-1d4ed8?style=for-the-badge&logoColor=white)
-![Design%20Patterns](https://img.shields.io/badge/Design%20Patterns-1d4ed8?style=for-the-badge&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-1d4ed8?style=for-the-badge&logoColor=white)
-
-<br><br>
-
-<sub>St. Petersburg, Russia · Open to opportunities</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0d1117&height=110&section=footer" width="100%"/>
+<p><a href="https://github.com/Ar0xT/ar0xt/tree/main/src"><img src="assets/footer.svg" width="100%"></a></p>
 
 </div>

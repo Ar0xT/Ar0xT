@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-image
+fonttools[woff]
+uharfbuzz
+skia-pathops
+shapely
